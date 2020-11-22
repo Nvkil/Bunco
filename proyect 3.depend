@@ -90,3 +90,24 @@
 1606065203 c:\users\watson\desktop\proyecto lab\resolucion.h
 	"graficas.h"
 
+1606069567 source:c:\users\watson\documents\github\bunco\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+	"Resolucion.h"
+	"graficas.h"
+
+1606072091 c:\users\watson\documents\github\bunco\funciones.h
+	"graficas.h"
+
+1606069567 c:\users\watson\documents\github\bunco\graficas.h
+	"funciones.h"
+
+1606069567 c:\users\watson\documents\github\bunco\resolucion.h
+	"graficas.h"
+
