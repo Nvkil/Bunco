@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1604588673 source:c:\users\diego\desktop\codeblock trabajos\proyect 3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"Resolucion.h"
+
+1604592404 c:\users\diego\desktop\codeblock trabajos\proyect 3\funciones.h
+
+1604584746 c:\users\diego\desktop\codeblock trabajos\proyect 3\resolucion.h
+
+1604947313 source:c:\users\diego\desktop\codeblock trabajos\proyecto lab\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+	"Resolucion.h"
+
+1604951637 c:\users\diego\desktop\codeblock trabajos\proyecto lab\funciones.h
+
+1604949302 c:\users\diego\desktop\codeblock trabajos\proyecto lab\resolucion.h
+
+1605502160 source:c:\users\watson\downloads\proyecto_lab_1\proyecto lab\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+	"Resolucion.h"
+	"graficas.h"
+
+1605515622 c:\users\watson\downloads\proyecto_lab_1\proyecto lab\funciones.h
+	"graficas.h"
+
+1605522583 c:\users\watson\downloads\proyecto_lab_1\proyecto lab\resolucion.h
+	"graficas.h"
+
+1605522583 c:\users\watson\downloads\proyecto_lab_1\proyecto lab\graficas.h
+	"funciones.h"
+
+1605802264 source:c:\users\diego\downloads\descargas juegos\proyecto lab\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+	"Resolucion.h"
+	"graficas.h"
+
+1605893987 c:\users\diego\downloads\descargas juegos\proyecto lab\funciones.h
+	"graficas.h"
+
+1605802888 c:\users\diego\downloads\descargas juegos\proyecto lab\graficas.h
+	"funciones.h"
+
+1605890833 c:\users\diego\downloads\descargas juegos\proyecto lab\resolucion.h
+	"graficas.h"
+
+1605802264 source:c:\users\watson\desktop\proyecto lab\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+	"Resolucion.h"
+	"graficas.h"
+
+1606066713 c:\users\watson\desktop\proyecto lab\funciones.h
+	"graficas.h"
+
+1606066713 c:\users\watson\desktop\proyecto lab\graficas.h
+	"funciones.h"
+
+1606065203 c:\users\watson\desktop\proyecto lab\resolucion.h
+	"graficas.h"
+
+1605802264 source:c:\users\diego\downloads\proyecto lab\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	<windows.h>
+	<conio.h>
+	"funciones.h"
+	"Resolucion.h"
+	"graficas.h"
+
+1606080085 c:\users\diego\downloads\proyecto lab\funciones.h
+	"graficas.h"
+
+1606079099 c:\users\diego\downloads\proyecto lab\graficas.h
+	"funciones.h"
+
+1606079565 c:\users\diego\downloads\proyecto lab\resolucion.h
+	"graficas.h"
+
