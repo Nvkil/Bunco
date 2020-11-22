@@ -42,30 +42,6 @@ void titulo(){
 
 }
 
-
-
-    /*system("cls");
-                                cout<<""<<endl;
-
-cout<<"___     ___   ____          ________  ____  ____  ________      ____   ___     ______________  ____     __________ "<<endl;
-cout<<"`MM\     `M'  6MMMMb         `MMMMMMMb.`MM' 6MMMMb\ `MMMMMMMb.   6MMMMb  `MM\     `M'`MM`MMMMMMMb.`MM'     `MMMMMMMMM "<<endl;
-cout<<" MMM\     M  8P    Y8         MM    `Mb MM 6M'    ` MM    `Mb  8P    Y8  MMM\     M  MM MM    `Mb MM       MM      \ "<<endl;
-cout<<" M\MM\     M 6M      Mb        MM     MM MM MM       MM     MM 6M      Mb M\MM\     M  MM MM     MM MM       MM        "<<endl;
-cout<<" M \MM\    M MM      MM        MM     MM MM YM.      MM     MM MM      MM M \MM\    M  MM MM    .M9 MM       MM    ,   "<<endl;
-cout<<" M  \MM\   M MM      MM        MM     MM MM  YMMMMb  MM    .M9 MM      MM M  \MM\   M  MM MMMMMMM(  MM       MMMMMMM   "<<endl;
-cout<<" M   \MM\  M MM      MM        MM     MM MM      `Mb MMMMMMM9' MM      MM M   \MM\  M  MM MM    `Mb MM       MM    `   "<<endl;
-cout<<" M    \MM\ M MM      MM        MM     MM MM       MM MM        MM      MM M    \MM\ M  MM MM     MM MM       MM        "<<endl;
-cout<<" M     \MMM YM      M9        MM     MM MM       MM MM        YM      M9 M     \MMM  MM MM     MM MM       MM        "<<endl;
-cout<<" M      \MM  8b    d8         MM    .M9 MM L    ,M9 MM         8b    d8  M      \MM  MM MM    .M9 MM    /  MM      / "<<endl;
-cout<<"_M_      \M   YMMMM9         _MMMMMMM9'_MM_MYMMMM9 _MM_         YMMMM9  _M_      \M _MM_MMMMMMM9'_MMMMMMM _MMMMMMMMM "<<endl;
-
-
-                                cout<<""<<endl;
-                                cout<<""<<endl;
-                                system("pause");
-                                system("cls");*/
-
-
 void impRonda(int ronda, int puntaje, int tiradas, int tfallidas, int cb) {
 	gotoxy(40,2);cout<<"****************************" << endl;
 	gotoxy(51,4);cout <<"RONDA: " << ronda << endl;
